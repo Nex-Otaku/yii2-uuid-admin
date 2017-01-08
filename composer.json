@@ -13,6 +13,10 @@
     "require": {
         "yiisoft/yii2": "~2.0.0",
         "mdmsoft/yii2-admin": "3.2",
+        "bower-asset/adminlte": "2.3.6",
+        "bower-asset/angular-resource": "1.5.8",
+        "bower-asset/angular-route": "1.5.8",
+        "bower-asset/angular": "1.5.8",
         "nex-otaku/yii2-uuid-tools": "dev-master"
     },
     "autoload": {

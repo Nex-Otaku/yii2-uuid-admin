@@ -26,3 +26,9 @@ Usage
 -----
 
 See "mdmsoft/yii2-admin".
+
+Requirements
+-----
+
+Currently (version 3.2 of yii2-admin) module is not working with latest Angular libraries - version 1.6.1 as for 2017.01.08.
+So it is tied to version 1.5.8 of Angular libraries.
