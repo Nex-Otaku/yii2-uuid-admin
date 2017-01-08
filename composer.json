@@ -11,7 +11,9 @@
         }
     ],
     "require": {
-        "yiisoft/yii2": "~2.0.0"
+        "yiisoft/yii2": "~2.0.0",
+        "mdmsoft/yii2-admin": "3.2",
+        "nex-otaku/yii2-uuid-tools": "dev-master"
     },
     "autoload": {
         "psr-4": {
