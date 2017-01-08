@@ -1,9 +1,9 @@
 <?php
 
-namespace common\modules\admin\controllers;
+namespace nex_otaku\admin\controllers;
 
 use Yii;
-use common\modules\admin\models\Menu;
+use nex_otaku\admin\models\Menu;
 use yii\rest\Controller;
 use yii\web\NotFoundHttpException;
 use mdm\admin\classes\MenuHelper;

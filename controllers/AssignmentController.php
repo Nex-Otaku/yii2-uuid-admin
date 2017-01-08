@@ -1,6 +1,6 @@
 <?php
 
-namespace common\modules\admin\controllers;
+namespace nex_otaku\admin\controllers;
 
 use Yii;
 use yii\rest\Controller;

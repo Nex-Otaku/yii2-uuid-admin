@@ -1,6 +1,6 @@
 <?php
 
-namespace common\modules\admin;
+namespace nex_otaku\admin;
 
 use mdm\admin\Module as BaseModule;
 
@@ -12,10 +12,10 @@ class Module extends BaseModule
     // Переопределяем несколько контроллеров для работы с UUID.
     public $controllerMap = [
         'assignment' => [
-            'class' => 'common\modules\admin\controllers\AssignmentController',
+            'class' => 'nex_otaku\admin\controllers\AssignmentController',
         ],
         'menu' => [
-            'class' => 'common\modules\admin\controllers\MenuController',
+            'class' => 'nex_otaku\admin\controllers\MenuController',
         ],
     ];
     // Подгружаем остальные контроллеры из базового модуля.

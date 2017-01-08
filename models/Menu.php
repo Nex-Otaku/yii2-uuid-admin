@@ -1,6 +1,6 @@
 <?php
 
-namespace common\modules\admin\models;
+namespace nex_otaku\admin\models;
 
 use mdm\admin\models\Menu as BaseMenu;
 use nex_otaku\uuid\behaviors\UuidBehavior;
