@@ -1,0 +1,21 @@
+{
+    "name": "nex-otaku/yii2-uuid-admin",
+    "description": "Fork of Mdmsoft RBAC admin extension, with UUID support.",
+    "type": "yii2-extension",
+    "keywords": ["yii2","extension","rbac"],
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "Nex Otaku",
+            "email": "nex@otaku.ru"
+        }
+    ],
+    "require": {
+        "yiisoft/yii2": "~2.0.0"
+    },
+    "autoload": {
+        "psr-4": {
+            "nex_otaku\\admin\\": ""
+        }
+    }
+}
