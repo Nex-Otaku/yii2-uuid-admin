@@ -17,7 +17,7 @@
         "bower-asset/angular-resource": "1.5.8",
         "bower-asset/angular-route": "1.5.8",
         "bower-asset/angular": "1.5.8",
-        "nex-otaku/yii2-uuid-tools": "dev-master"
+        "nex-otaku/yii2-uuid-tools": "~1.0.0"
     },
     "autoload": {
         "psr-4": {
